@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="practical" />
+      <item value="sink" />
+      <item value="underlying" />
+      <item value="specific" />
+      <item value="opaque" />
+      <item value="Descriptor" />
+      <item value="Privileged" />
       <item value="Client" />
       <item value="duplicate" />
       <item value="start" />
@@ -30,7 +37,6 @@
       <item value="uninitialized to let the auto-proxy creator apply to them" />
       <item value="Derives" />
       <item value="Adapt" />
-      <item value="opaque" />
       <item value="Reflection" />
       <item value="advised" />
       <item value="exposed" />
@@ -39,22 +45,18 @@
       <item value="ultimate" />
       <item value="activate" />
       <item value="Subclasses" />
-      <item value="Descriptor" />
       <item value="Qualified" />
       <item value="parse" />
       <item value="determine" />
       <item value="We need to work it out." />
       <item value="introduction" />
       <item value="Declared" />
-      <item value="assume" />
-      <item value="Introductions" />
-      <item value="Advisors" />
-      <item value="No need to iterate the methods if we're matching any method anyway" />
-      <item value="Introduction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
+        <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
