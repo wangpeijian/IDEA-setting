@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Client" />
       <item value="duplicate" />
       <item value="start" />
       <item value="server" />
@@ -50,7 +51,11 @@
       <item value="Advisors" />
       <item value="No need to iterate the methods if we're matching any method anyway" />
       <item value="Introduction" />
-      <item value="Eligible" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
