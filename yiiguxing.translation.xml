@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prioritization" />
+      <item value="related" />
       <item value="Inject" />
       <item value="replicated" />
       <item value="Periodic" />
@@ -49,13 +51,11 @@
       <item value="sphere" />
       <item value="async" />
       <item value="traditional" />
-      <item value="partitioner" />
-      <item value="fewer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
