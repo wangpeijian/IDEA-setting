@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="pre-processing before it is ready to take traffic." />
+      <item value="Indicates" />
+      <item value="traffic" />
+      <item value="processing" />
+      <item value="actuator" />
       <item value="embed" />
       <item value="sync" />
       <item value="is not as light-weight and robust but offers more features" />
@@ -46,16 +51,11 @@
       <item value="Adapt" />
       <item value="Reflection" />
       <item value="advised" />
-      <item value="exposed" />
-      <item value="Strategy" />
-      <item value="interceptor" />
-      <item value="ultimate" />
-      <item value="activate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
