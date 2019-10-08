@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="particular" />
+      <item value="Acceptable" />
+      <item value="assume" />
+      <item value="Produces" />
       <item value="replicator" />
       <item value="burst" />
       <item value="credentials" />
@@ -47,15 +51,11 @@
       <item value="Descriptor" />
       <item value="Privileged" />
       <item value="Client" />
-      <item value="duplicate" />
-      <item value="start" />
-      <item value="server" />
-      <item value="allocate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
