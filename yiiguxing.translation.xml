@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="replicated" />
+      <item value="Periodic" />
+      <item value="scheduler" />
+      <item value="proxies" />
+      <item value="scoped" />
+      <item value="possibly" />
       <item value="Registration" />
       <item value="wrapper" />
       <item value="deregister" />
@@ -45,17 +51,11 @@
       <item value="partitioner" />
       <item value="fewer" />
       <item value="supplied" />
-      <item value="metadata" />
-      <item value="present" />
-      <item value="fail" />
-      <item value="Renew" />
-      <item value="identity" />
-      <item value="first" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
