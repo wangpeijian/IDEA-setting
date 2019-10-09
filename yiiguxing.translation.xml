@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reflective" />
       <item value="Priming" />
       <item value="Amazon" />
       <item value="Traffic" />
@@ -50,12 +51,11 @@
       <item value="pre-processing before it is ready to take traffic." />
       <item value="Indicates" />
       <item value="processing" />
-      <item value="actuator" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
