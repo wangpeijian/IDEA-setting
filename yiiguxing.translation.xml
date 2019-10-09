@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Peer Aware" />
+      <item value="related" />
+      <item value="particular" />
+      <item value="Jersey" />
       <item value="Responsible for adding in a marker bean to activate" />
       <item value="Generation" />
       <item value="reconcile" />
@@ -8,7 +12,6 @@
       <item value="get And Update Delta" />
       <item value="Delta" />
       <item value="Delayed" />
-      <item value="particular" />
       <item value="Acceptable" />
       <item value="assume" />
       <item value="Produces" />
@@ -23,7 +26,6 @@
       <item value="Peer" />
       <item value="replica" />
       <item value="prioritization" />
-      <item value="related" />
       <item value="Inject" />
       <item value="replicated" />
       <item value="Periodic" />
@@ -49,13 +51,11 @@
       <item value="integration" />
       <item value="provides" />
       <item value="robust" />
-      <item value="Decoder" />
-      <item value="practical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
