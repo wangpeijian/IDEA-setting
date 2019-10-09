@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="repositories" />
+      <item value="nexus" />
+      <item value="abs" />
+      <item value="Contact" />
       <item value="Reflective" />
       <item value="Priming" />
       <item value="Amazon" />
@@ -47,15 +51,12 @@
       <item value="Specify" />
       <item value="Aggregator" />
       <item value="receive" />
-      <item value="traffic" />
-      <item value="pre-processing before it is ready to take traffic." />
-      <item value="Indicates" />
-      <item value="processing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
+        <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
