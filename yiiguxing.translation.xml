@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advanced" />
+      <item value="observed" />
+      <item value="delta" />
+      <item value="burst" />
+      <item value="replicator" />
+      <item value="Instance Info" />
+      <item value="travis" />
+      <item value="integration" />
       <item value="composed" />
       <item value="underlying" />
       <item value="potentially" />
@@ -43,19 +51,11 @@
       <item value="Delta" />
       <item value="Delayed" />
       <item value="Acceptable" />
-      <item value="assume" />
-      <item value="Produces" />
-      <item value="replicator" />
-      <item value="burst" />
-      <item value="credentials" />
-      <item value="exchange" />
-      <item value="delegate" />
-      <item value="Transport" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
