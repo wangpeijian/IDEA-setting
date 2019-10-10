@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ApplicationContext per client name, and extracts the beans that it needs from there." />
+      <item value="Ported" />
+      <item value="Specifications" />
+      <item value="extracts" />
+      <item value="feign" />
       <item value="queries" />
       <item value="Special" />
       <item value="Declaring" />
@@ -46,16 +51,11 @@
       <item value="Priming" />
       <item value="Amazon" />
       <item value="Traffic" />
-      <item value="Jersey" />
-      <item value="Lifecycle" />
-      <item value="statistics" />
-      <item value="monitoring" />
-      <item value="Peer Aware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
