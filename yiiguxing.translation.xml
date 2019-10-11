@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="delegate" />
       <item value="ApplicationContext per client name, and extracts the beans that it needs from there." />
       <item value="Ported" />
       <item value="Specifications" />
@@ -50,12 +51,11 @@
       <item value="Reflective" />
       <item value="Priming" />
       <item value="Amazon" />
-      <item value="Traffic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
