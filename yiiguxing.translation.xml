@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eligible" />
+      <item value="Present" />
+      <item value="uniqueness" />
+      <item value="Monitor" />
       <item value="Predicate" />
       <item value="Converts" />
       <item value="preprocess" />
@@ -47,15 +51,11 @@
       <item value="Lease" />
       <item value="is Replication" />
       <item value="Peer" />
-      <item value="Replication" />
-      <item value="particular" />
-      <item value="increment" />
-      <item value="repositories" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
