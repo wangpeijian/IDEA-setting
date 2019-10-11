@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="preprocess" />
       <item value="Disposable" />
       <item value="Ported" />
       <item value="target" />
@@ -50,12 +51,11 @@
       <item value="repositories" />
       <item value="nexus" />
       <item value="abs" />
-      <item value="Contact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="127" />
+        <entry key="ENGLISH" value="128" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
