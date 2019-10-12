@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" Polling" />
+      <item value="t Filtered" />
+      <item value="Affinity" />
       <item value="vip Addresses" />
       <item value="Suppressed" />
       <item value="manually" />
@@ -48,14 +51,11 @@
       <item value="Partial" />
       <item value="present" />
       <item value="advanced" />
-      <item value="observed" />
-      <item value="delta" />
-      <item value="burst" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
