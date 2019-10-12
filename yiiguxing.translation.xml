@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legacy" />
+      <item value="Legacy" />
+      <item value="injected" />
       <item value=" Polling" />
       <item value="t Filtered" />
       <item value="Affinity" />
@@ -48,14 +51,11 @@
       <item value="declaring" />
       <item value="unbound Handle" />
       <item value="Hystrix" />
-      <item value="Partial" />
-      <item value="present" />
-      <item value="advanced" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="158" />
-        <entry key="ENGLISH" value="159" />
+        <entry key="CHINESE" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
