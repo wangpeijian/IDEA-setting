@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Response Body" />
       <item value="legacy" />
       <item value="Legacy" />
       <item value="injected" />
@@ -50,12 +51,11 @@
       <item value="lookup" />
       <item value="declaring" />
       <item value="unbound Handle" />
-      <item value="Hystrix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="161" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
