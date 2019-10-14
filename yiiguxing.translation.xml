@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="field" />
+      <item value="域" />
+      <item value="原始" />
       <item value="Response Body" />
       <item value="legacy" />
       <item value="Legacy" />
@@ -48,14 +51,11 @@
       <item value="queries" />
       <item value="Special" />
       <item value="Declaring" />
-      <item value="lookup" />
-      <item value="declaring" />
-      <item value="unbound Handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
