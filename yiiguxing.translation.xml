@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="converted" />
+      <item value="Observer" />
       <item value="Model" />
       <item value="Improvements" />
       <item value="Recipients" />
@@ -49,13 +51,11 @@
       <item value="target" />
       <item value="creating" />
       <item value="delegate" />
-      <item value="ApplicationContext per client name, and extracts the beans that it needs from there." />
-      <item value="Specifications" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="168" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
