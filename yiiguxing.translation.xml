@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="util" />
       <item value="mail" />
       <item value="field" />
       <item value="域" />
@@ -50,11 +51,10 @@
       <item value="extracts" />
       <item value="feign" />
       <item value="queries" />
-      <item value="Special" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
+        <entry key="CHINESE" value="166" />
         <entry key="ENGLISH" value="166" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
