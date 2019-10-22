@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Recipient" />
       <item value="前缀" />
       <item value="prx" />
       <item value="With" />
@@ -50,12 +51,11 @@
       <item value="Predicate" />
       <item value="Converts" />
       <item value="preprocess" />
-      <item value="Disposable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
