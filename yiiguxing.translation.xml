@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合并" />
+      <item value="merge" />
       <item value="update" />
       <item value="updated" />
       <item value="Completion" />
@@ -49,13 +51,11 @@
       <item value="REALLY" />
       <item value="afford" />
       <item value="hence" />
-      <item value="assuming" />
-      <item value="IFF" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
