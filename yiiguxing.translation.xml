@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Month" />
+      <item value="Mouth" />
+      <item value="Range" />
       <item value="adjust" />
       <item value="合并" />
       <item value="merge" />
@@ -48,14 +51,11 @@
       <item value="its mostly in memory eureka call" />
       <item value="below" />
       <item value="desirable" />
-      <item value="serially" />
-      <item value="REALLY" />
-      <item value="afford" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
