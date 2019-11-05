@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="turnover" />
       <item value="statistics" />
       <item value="Month" />
       <item value="Mouth" />
@@ -50,12 +51,11 @@
       <item value="Extracting" />
       <item value="hence we can afford to simplify this design and run // this" />
       <item value="its mostly in memory eureka call" />
-      <item value="below" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="GERMAN" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="1" />
