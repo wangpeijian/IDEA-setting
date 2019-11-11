@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Completion Stage" />
+      <item value="execution" />
+      <item value="arbitrary" />
+      <item value="explicit" />
+      <item value="suffix" />
+      <item value="facility" />
+      <item value="particular" />
+      <item value="guarantee" />
+      <item value="otherwise" />
+      <item value="guarantees" />
+      <item value="computation" />
+      <item value="asynchronous" />
+      <item value="stage" />
       <item value="manipulating" />
       <item value="directly" />
       <item value="supporting" />
@@ -38,24 +51,11 @@
       <item value="mail" />
       <item value="field" />
       <item value="域" />
-      <item value="原始" />
-      <item value="Response Body" />
-      <item value="legacy" />
-      <item value="Legacy" />
-      <item value="injected" />
-      <item value=" Polling" />
-      <item value="t Filtered" />
-      <item value="Affinity" />
-      <item value="vip Addresses" />
-      <item value="Suppressed" />
-      <item value="manually" />
-      <item value="retrieve" />
-      <item value="Participate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
