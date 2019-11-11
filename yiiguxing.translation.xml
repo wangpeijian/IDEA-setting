@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="合并" />
+      <item value="mrege" />
+      <item value="merge" />
       <item value="SYNC" />
       <item value="Fire" />
       <item value="equivalent" />
@@ -38,8 +41,6 @@
       <item value="Mouth" />
       <item value="Range" />
       <item value="adjust" />
-      <item value="合并" />
-      <item value="merge" />
       <item value="update" />
       <item value="updated" />
       <item value="Completion" />
@@ -50,12 +51,11 @@
       <item value="Recipient" />
       <item value="前缀" />
       <item value="prx" />
-      <item value="With" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
