@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SYNC" />
+      <item value="Fire" />
       <item value="equivalent" />
       <item value="claim" />
       <item value="above" />
@@ -49,13 +51,11 @@
       <item value="前缀" />
       <item value="prx" />
       <item value="With" />
-      <item value="Weight" />
-      <item value="converted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
