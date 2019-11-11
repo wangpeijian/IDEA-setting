@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <histories>
       <item value="equivalent" />
+      <item value="claim" />
+      <item value="above" />
+      <item value="NIL" />
+      <item value="Alt Result" />
       <item value="Completes" />
       <item value="asynchronous" />
       <item value="exceptional" />
@@ -47,15 +51,12 @@
       <item value="With" />
       <item value="Weight" />
       <item value="converted" />
-      <item value="Observer" />
-      <item value="Model" />
-      <item value="Improvements" />
-      <item value="Recipients" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
