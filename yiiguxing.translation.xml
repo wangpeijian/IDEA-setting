@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
+      <item value="reattempted" />
+      <item value="resolution" />
       <item value="Approve" />
       <item value="business" />
       <item value="precious" />
@@ -48,14 +51,11 @@
       <item value="Range" />
       <item value="adjust" />
       <item value="update" />
-      <item value="updated" />
-      <item value="Completion" />
-      <item value="过期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="230" />
+        <entry key="ENGLISH" value="231" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
