@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Jersey" />
       <item value="合并" />
       <item value="merge" />
       <item value="interval" />
@@ -50,12 +51,11 @@
       <item value="Mouth" />
       <item value="Range" />
       <item value="adjust" />
-      <item value="update" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
