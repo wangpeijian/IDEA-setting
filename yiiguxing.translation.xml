@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Approve" />
       <item value="Jersey" />
       <item value="合并" />
       <item value="merge" />
       <item value="interval" />
       <item value="reattempted" />
       <item value="resolution" />
-      <item value="Approve" />
       <item value="business" />
       <item value="precious" />
       <item value="destination" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
