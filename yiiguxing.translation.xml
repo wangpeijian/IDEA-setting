@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assemble" />
       <item value="Retention" />
       <item value="precious" />
       <item value="subject" />
@@ -50,12 +51,11 @@
       <item value="stage" />
       <item value="manipulating" />
       <item value="directly" />
-      <item value="supporting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
