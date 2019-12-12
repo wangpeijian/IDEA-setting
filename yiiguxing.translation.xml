@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="quorum" />
       <item value="the type to cast this class object to" />
       <item value="subclass" />
       <item value="represent" />
@@ -50,17 +51,16 @@
       <item value="explicit" />
       <item value="suffix" />
       <item value="facility" />
-      <item value="particular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
+        <entry key="CHINESE" value="255" />
         <entry key="ENGLISH" value="255" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="GALICIAN" value="1" />
-        <entry key="LATIN" value="1" />
+        <entry key="LATIN" value="2" />
       </map>
     </option>
   </component>
