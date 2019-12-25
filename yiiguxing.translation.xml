@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Internal" />
+      <item value="Assignable" />
       <item value="Preferential" />
       <item value="Threshold" />
       <item value="Base Flow" />
@@ -49,13 +51,11 @@
       <item value="NIL" />
       <item value="Alt Result" />
       <item value="Completes" />
-      <item value="asynchronous" />
-      <item value="exceptional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
