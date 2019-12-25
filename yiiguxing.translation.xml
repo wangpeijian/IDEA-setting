@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiply" />
       <item value="Internal" />
       <item value="Assignable" />
       <item value="Preferential" />
@@ -50,12 +51,11 @@
       <item value="above" />
       <item value="NIL" />
       <item value="Alt Result" />
-      <item value="Completes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
