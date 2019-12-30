@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Balance" />
       <item value="subtract" />
       <item value="Criteria" />
       <item value="multiply" />
@@ -50,12 +51,11 @@
       <item value="Fire" />
       <item value="equivalent" />
       <item value="claim" />
-      <item value="above" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="267" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="268" />
+        <entry key="ENGLISH" value="269" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
