@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Simulate" />
       <item value="apportion" />
       <item value="Atom" />
       <item value="Invoice" />
@@ -50,12 +51,11 @@
       <item value="Proxy" />
       <item value="Aware" />
       <item value="mrege" />
-      <item value="SYNC" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
