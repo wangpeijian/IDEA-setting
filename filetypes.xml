@@ -7,6 +7,7 @@
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="flt" type="PLAIN_TEXT" />
       <mapping ext="mapper" type="XML" />
+      <mapping pattern="scheduler-config" type="YAML" />
     </extensionMap>
   </component>
 </application>
