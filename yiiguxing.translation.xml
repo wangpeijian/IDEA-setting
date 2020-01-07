@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="schedulers" />
+      <item value="Starter" />
       <item value="implementation" />
       <item value="executions" />
       <item value="overlapping" />
@@ -49,13 +51,11 @@
       <item value="security" />
       <item value="Approve" />
       <item value="Jersey" />
-      <item value="合并" />
-      <item value="merge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
