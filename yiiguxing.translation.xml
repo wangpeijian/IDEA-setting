@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclude" />
+      <item value="Interceptor" />
       <item value="predicate" />
       <item value="Declared" />
       <item value="schedulers" />
@@ -49,13 +51,11 @@
       <item value="cron" />
       <item value="Scheduled" />
       <item value="Duplicate Key" />
-      <item value="Escape" />
-      <item value="security" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="288" />
+        <entry key="ENGLISH" value="289" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
