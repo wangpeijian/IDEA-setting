@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the suggested component name" />
       <item value="PROTOTYPE" />
       <item value="retain" />
       <item value="Sifts" />
@@ -50,12 +51,11 @@
       <item value="the type to cast this class object to" />
       <item value="subclass" />
       <item value="represent" />
-      <item value="Casts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="301" />
+        <entry key="ENGLISH" value="302" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
