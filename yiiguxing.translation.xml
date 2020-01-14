@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retain" />
+      <item value="Sifts" />
+      <item value="take" />
+      <item value="poll" />
+      <item value="Prestart" />
+      <item value="decorate" />
+      <item value="provided" />
+      <item value="If minute matches move on" />
+      <item value="roll forwards" />
+      <item value="rounding up" />
       <item value="sequence" />
       <item value="exclude" />
       <item value="Interceptor" />
@@ -41,21 +51,11 @@
       <item value="represent" />
       <item value="Casts" />
       <item value="precedence" />
-      <item value="pound" />
-      <item value="unary" />
-      <item value="Retention" />
-      <item value="precious" />
-      <item value="subject" />
-      <item value="Address" />
-      <item value="Generate" />
-      <item value="Cron Trigger" />
-      <item value="cron" />
-      <item value="Scheduled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="289" />
-        <entry key="ENGLISH" value="290" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
