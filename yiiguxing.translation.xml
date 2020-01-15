@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consisting" />
       <item value="if should match if the property is missing" />
       <item value="the suggested component name" />
       <item value="PROTOTYPE" />
@@ -50,12 +51,11 @@
       <item value="ratios" />
       <item value="quorum" />
       <item value="the type to cast this class object to" />
-      <item value="subclass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="302" />
-        <entry key="ENGLISH" value="303" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
