@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="poll" />
       <item value="Amount" />
       <item value="consisting" />
       <item value="if should match if the property is missing" />
@@ -9,7 +10,6 @@
       <item value="retain" />
       <item value="Sifts" />
       <item value="take" />
-      <item value="poll" />
       <item value="Prestart" />
       <item value="decorate" />
       <item value="provided" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="306" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
