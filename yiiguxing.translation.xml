@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stale entries" />
+      <item value="expunged" />
+      <item value="field" />
+      <item value="associated" />
+      <item value="encountered" />
       <item value="poll" />
       <item value="Amount" />
       <item value="consisting" />
@@ -46,16 +51,11 @@
       <item value="Threshold" />
       <item value="Base Flow" />
       <item value="trade" />
-      <item value="assemble" />
-      <item value="Priority" />
-      <item value="Sequence" />
-      <item value="ratios" />
-      <item value="quorum" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
