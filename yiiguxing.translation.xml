@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="big-endian" />
+      <item value="endian" />
+      <item value="divided" />
       <item value="Entity" />
       <item value="Deprecated" />
       <item value="tenant" />
@@ -48,14 +51,11 @@
       <item value="Balance" />
       <item value="subtract" />
       <item value="Criteria" />
-      <item value="multiply" />
-      <item value="Internal" />
-      <item value="Assignable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="314" />
-        <entry key="ENGLISH" value="315" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="317" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
