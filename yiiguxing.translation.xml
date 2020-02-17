@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Process" />
       <item value="Predicate" />
       <item value="approver" />
       <item value="big-endian" />
@@ -50,12 +51,11 @@
       <item value="apportion" />
       <item value="Atom" />
       <item value="Invoice" />
-      <item value="Balance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
