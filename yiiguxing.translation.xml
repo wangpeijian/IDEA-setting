@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Async" />
       <item value="Aliyun" />
       <item value="crating" />
       <item value="Process" />
@@ -50,12 +51,11 @@
       <item value="Cron" />
       <item value="Repeatable" />
       <item value="Simulate" />
-      <item value="apportion" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="321" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
