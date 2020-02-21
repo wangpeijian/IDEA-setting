@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Affine" />
       <item value="suffix" />
       <item value="exit" />
       <item value="Example" />
@@ -50,12 +51,11 @@
       <item value="occur" />
       <item value="according" />
       <item value="execution" />
-      <item value="Determine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
