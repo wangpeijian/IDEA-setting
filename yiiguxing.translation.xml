@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete" />
+      <item value="完成" />
+      <item value="finsh" />
       <item value="Pull" />
       <item value="Affine" />
       <item value="suffix" />
@@ -48,14 +51,11 @@
       <item value="Starter" />
       <item value="implementation" />
       <item value="executions" />
-      <item value="overlapping" />
-      <item value="occur" />
-      <item value="according" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="330" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
