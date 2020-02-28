@@ -6,6 +6,7 @@
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="flt" type="PLAIN_TEXT" />
+      <mapping pattern="mailTenantAuthSuccess.ftl" type="XML" />
       <mapping ext="mapper" type="XML" />
       <mapping pattern="scheduler-config" type="YAML" />
     </extensionMap>
