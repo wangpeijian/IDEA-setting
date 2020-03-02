@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manipulate" />
+      <item value="gazillion" />
+      <item value="Despite" />
       <item value="complete" />
       <item value="完成" />
       <item value="finsh" />
@@ -48,14 +51,11 @@
       <item value="predicate" />
       <item value="Declared" />
       <item value="schedulers" />
-      <item value="Starter" />
-      <item value="implementation" />
-      <item value="executions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
