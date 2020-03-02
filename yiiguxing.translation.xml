@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exceed Limit" />
       <item value="digest" />
       <item value="manipulate" />
       <item value="gazillion" />
@@ -50,12 +51,11 @@
       <item value="exclude" />
       <item value="Interceptor" />
       <item value="predicate" />
-      <item value="Declared" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
-        <entry key="ENGLISH" value="334" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
