@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="precious" />
       <item value="Process" />
       <item value="exceed Limit" />
       <item value="digest" />
@@ -50,12 +51,11 @@
       <item value="sequence" />
       <item value="exclude" />
       <item value="Interceptor" />
-      <item value="predicate" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="ENGLISH" value="337" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
