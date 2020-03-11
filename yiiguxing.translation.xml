@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retain" />
       <item value="precious" />
       <item value="Process" />
       <item value="exceed Limit" />
@@ -39,7 +40,6 @@
       <item value="if should match if the property is missing" />
       <item value="the suggested component name" />
       <item value="PROTOTYPE" />
-      <item value="retain" />
       <item value="Sifts" />
       <item value="take" />
       <item value="Prestart" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
