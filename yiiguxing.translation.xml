@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="write" />
+      <item value="Settlement" />
       <item value="tenement" />
       <item value="arrears" />
       <item value="Voucher" />
@@ -49,13 +51,11 @@
       <item value="Sifts" />
       <item value="take" />
       <item value="Prestart" />
-      <item value="decorate" />
-      <item value="provided" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="347" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
