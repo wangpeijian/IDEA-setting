@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="revenue" />
       <item value="without" />
       <item value="dealing" />
       <item value="retain" />
@@ -50,12 +51,11 @@
       <item value="If minute matches move on" />
       <item value="roll forwards" />
       <item value="rounding up" />
-      <item value="sequence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
