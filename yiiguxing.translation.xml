@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bill" />
+      <item value="ticket" />
+      <item value="ticketer" />
       <item value="write" />
       <item value="Settlement" />
       <item value="tenement" />
@@ -48,20 +51,18 @@
       <item value="if should match if the property is missing" />
       <item value="the suggested component name" />
       <item value="PROTOTYPE" />
-      <item value="Sifts" />
-      <item value="take" />
-      <item value="Prestart" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="349" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HAUSA" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
+        <entry key="BENGALI" value="1" />
       </map>
     </option>
   </component>
