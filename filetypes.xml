@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="compose-builder" type="PLAIN_TEXT" />
       <mapping pattern="compose" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
