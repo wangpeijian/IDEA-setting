@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOVEMBER" />
+      <item value="DECEMBER" />
+      <item value="UNDECIMBER" />
+      <item value="FEBRUARY" />
+      <item value="APRIL" />
+      <item value="MAY" />
       <item value="Ticket" />
       <item value="process" />
       <item value="notice" />
@@ -45,17 +51,11 @@
       <item value="endian" />
       <item value="divided" />
       <item value="Entity" />
-      <item value="tenant" />
-      <item value="divide" />
-      <item value="stale entries" />
-      <item value="expunged" />
-      <item value="field" />
-      <item value="associated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="CHINESE" value="364" />
+        <entry key="ENGLISH" value="365" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
