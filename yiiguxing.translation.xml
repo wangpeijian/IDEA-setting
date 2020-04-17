@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Combination" />
       <item value="Region" />
       <item value="NOVEMBER" />
       <item value="DECEMBER" />
@@ -50,12 +51,11 @@
       <item value="approver" />
       <item value="big-endian" />
       <item value="endian" />
-      <item value="divided" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="365" />
-        <entry key="ENGLISH" value="366" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
