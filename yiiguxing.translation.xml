@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incr" />
       <item value="decrement" />
       <item value="increment" />
       <item value="merger" />
@@ -50,11 +51,10 @@
       <item value="Async" />
       <item value="Aliyun" />
       <item value="crating" />
-      <item value="Predicate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
+        <entry key="CHINESE" value="370" />
         <entry key="ENGLISH" value="370" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
@@ -63,6 +63,7 @@
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="BENGALI" value="1" />
+        <entry key="ITALIAN" value="1" />
       </map>
     </option>
   </component>
