@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ORDINARY" />
       <item value="Increment" />
       <item value="incr" />
       <item value="allow Eager Init" />
@@ -50,12 +51,11 @@
       <item value="suffix" />
       <item value="exit" />
       <item value="Example" />
-      <item value="Async" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
