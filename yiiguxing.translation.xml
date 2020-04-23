@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="allow Eager Init" />
+      <item value="Increment" />
       <item value="incr" />
+      <item value="allow Eager Init" />
       <item value="decrement" />
       <item value="increment" />
       <item value="merger" />
@@ -50,12 +51,11 @@
       <item value="exit" />
       <item value="Example" />
       <item value="Async" />
-      <item value="Aliyun" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="370" />
-        <entry key="ENGLISH" value="371" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -63,7 +63,7 @@
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="BENGALI" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
       </map>
     </option>
   </component>
