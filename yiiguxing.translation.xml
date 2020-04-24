@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incr" />
       <item value="PRESTORE" />
       <item value="ORDINARY" />
       <item value="Increment" />
-      <item value="incr" />
       <item value="allow Eager Init" />
       <item value="decrement" />
       <item value="increment" />
@@ -63,7 +63,7 @@
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="BENGALI" value="1" />
-        <entry key="ITALIAN" value="3" />
+        <entry key="ITALIAN" value="4" />
       </map>
     </option>
   </component>
