@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shiro" />
       <item value="incr" />
       <item value="PRESTORE" />
       <item value="ORDINARY" />
@@ -50,7 +51,6 @@
       <item value="Pull" />
       <item value="Affine" />
       <item value="suffix" />
-      <item value="exit" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,7 @@
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="BENGALI" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="ITALIAN" value="4" />
       </map>
     </option>
