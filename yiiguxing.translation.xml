@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inerchange" />
       <item value="Strategy" />
       <item value="electronic" />
       <item value="Opacity" />
@@ -50,15 +51,14 @@
       <item value="gazillion" />
       <item value="Despite" />
       <item value="complete" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
+        <entry key="CHINESE" value="377" />
         <entry key="ENGLISH" value="377" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="HAUSA" value="1" />
         <entry key="GALICIAN" value="1" />
         <entry key="LATIN" value="2" />
