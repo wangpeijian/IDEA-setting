@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="property" />
       <item value="subscribe" />
       <item value="kingdom" />
       <item value="Inerchange" />
@@ -50,12 +51,11 @@
       <item value="exceed Limit" />
       <item value="digest" />
       <item value="manipulate" />
-      <item value="gazillion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
