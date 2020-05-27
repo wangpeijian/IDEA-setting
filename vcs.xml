@@ -46,6 +46,10 @@
           <option name="url" value="https://git.c.citic/citic-cloud-core/account-management.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/OBMP/baas-amc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/citic/code/ypt/service" />
