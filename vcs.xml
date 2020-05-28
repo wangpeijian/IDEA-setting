@@ -22,9 +22,51 @@
           <option name="url" value="https://git.c.citic/citic-soa/Environment-newtest.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/citic-soa/citic-adapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/citic-soa/citic-service-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/OBMP/baas-bmc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/OBMP/baas-job.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/OBMP/billing-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/citic-cloud-core/account-management.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/OBMP/baas-amc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.c.citic/OBMP/baas-batch-collect.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/citic/code/ypt/service" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
