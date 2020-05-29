@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Current" />
+      <item value="Month" />
+      <item value="Mounth" />
+      <item value="async" />
       <item value="Everyday" />
       <item value="Every Day" />
       <item value="receivable Bill List" />
@@ -47,15 +51,11 @@
       <item value="write" />
       <item value="Settlement" />
       <item value="tenement" />
-      <item value="arrears" />
-      <item value="Voucher" />
-      <item value="revenue" />
-      <item value="without" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="388" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="2" />
